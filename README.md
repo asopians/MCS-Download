@@ -8,19 +8,29 @@ Unduhan resmi aplikasi **MCS (Manajemen Channel by Sopian)**: kelola banyak chan
 
 | Sistem | File |
 |---|---|
-| Windows 10/11 (installer) | [MCS-2.1.2-Setup.exe](https://github.com/asopians/MCS-Download/releases/download/v2.1.2/MCS-2.1.2-Setup.exe) |
-| macOS 11+ (Apple Silicon M1–M4) | [MCS-2.1.2-mac.zip](https://github.com/asopians/MCS-Download/releases/download/v2.1.2/MCS-2.1.2-mac.zip) |
+| Windows 10/11 (installer) | [MCS-2.1.3-Setup.exe](https://github.com/asopians/MCS-Download/releases/download/v2.1.3/MCS-2.1.3-Setup.exe) |
+| macOS 11+ (Apple Silicon M1–M4) | [MCS-2.1.3-mac.zip](https://github.com/asopians/MCS-Download/releases/download/v2.1.3/MCS-2.1.3-mac.zip) |
 
 Semua versi: [halaman Releases](https://github.com/asopians/MCS-Download/releases) · terakhir diperbarui 1 November 2026
 
 ## Cara pasang
-**Windows:** jalankan `MCS-2.1.2-Setup.exe`. Bila muncul *"Windows protected your PC"*, klik **More info → Run anyway**, lalu ikuti langkah instalasi.
+**Windows:** jalankan `MCS-2.1.3-Setup.exe`. Bila muncul *"Windows protected your PC"*, klik **More info → Run anyway**, lalu ikuti langkah instalasi.
 
 **macOS:** ekstrak zip, seret **Managemen Channel by Sopian.app** ke folder **Applications**. Saat pertama dibuka: klik kanan aplikasi → **Open** (atau *System Settings → Privacy & Security → Open Anyway*).
 
 **Update:** aplikasi yang sudah terpasang memberi tahu bila ada versi baru (tombol ⬆️ Update di sidebar). Data akun, API, jadwal, pengaturan live & lisensi tetap aman setelah update.
 
 ## Catatan versi
+
+### 2.1.3 — Tampilan Live lebih rapi & status API lebih jelas
+
+- Live Streaming: tampilan tab dirapikan tanpa scroll; status serta tombol Start/Stop ada di atas, Media Stream + Rotasi Metadata di kiri, Jadwal Live di kanan
+- Live Streaming: 🗂️ Data Integrasi Studio YouTube terlipat jadi 1 baris ringkasan; klik untuk membuka pengaturannya
+- Live Streaming: 🔐 API Channel pindah ke baris Tab Stream dan bisa dibuka; statusnya jelas (Terhubung, Client ID / Secret salah, atau login kedaluwarsa), plus tombol 🔄 Cek Koneksi
+- Live Streaming: keterangan jadwal diperjelas, jika memakai lebih dari 1 jadwal beri jarak minimal 5 menit
+- Rotasi Metadata: tombol Edit selalu terlihat walau judul panjang, dan thumbnail yang sudah dipilih bisa dihapus
+- Windows: ikon menu di sidebar kini berwarna dan tampil semua
+- Update aplikasi: jendela update lebih rapi; bila unduhan gagal, alasannya tampil dan bisa dicoba lagi
 
 ### 2.1.2 — Menu Metadata baru, Scheduler lebih lengkap & Authenticator berkategori
 
