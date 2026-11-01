@@ -8,13 +8,13 @@ Unduhan resmi aplikasi **MCS (Manajemen Channel by Sopian)**: kelola banyak chan
 
 | Sistem | File |
 |---|---|
-| Windows 10/11 (installer) | [MCS-2.1.1-Setup.exe](https://github.com/asopians/MCS-Download/releases/download/v2.1.1/MCS-2.1.1-Setup.exe) (versi 2.1.2 segera menyusul) |
+| Windows 10/11 (installer) | [MCS-2.1.2-Setup.exe](https://github.com/asopians/MCS-Download/releases/download/v2.1.2/MCS-2.1.2-Setup.exe) |
 | macOS 11+ (Apple Silicon M1–M4) | [MCS-2.1.2-mac.zip](https://github.com/asopians/MCS-Download/releases/download/v2.1.2/MCS-2.1.2-mac.zip) |
 
 Semua versi: [halaman Releases](https://github.com/asopians/MCS-Download/releases) · terakhir diperbarui 1 November 2026
 
 ## Cara pasang
-**Windows:** jalankan `MCS-2.1.1-Setup.exe`. Bila muncul *"Windows protected your PC"*, klik **More info → Run anyway**, lalu ikuti langkah instalasi.
+**Windows:** jalankan `MCS-2.1.2-Setup.exe`. Bila muncul *"Windows protected your PC"*, klik **More info → Run anyway**, lalu ikuti langkah instalasi.
 
 **macOS:** ekstrak zip, seret **Managemen Channel by Sopian.app** ke folder **Applications**. Saat pertama dibuka: klik kanan aplikasi → **Open** (atau *System Settings → Privacy & Security → Open Anyway*).
 
