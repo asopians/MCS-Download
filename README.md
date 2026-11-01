@@ -4,14 +4,14 @@ Unduhan resmi aplikasi **MCS (Manajemen Channel by Sopian)**: kelola banyak chan
 
 > Aplikasi membutuhkan **lisensi aktif**. Pembelian & perpanjangan: **[mcs.sopian.web.id](https://mcs.sopian.web.id)**
 
-## Unduh versi terbaru (2.1.1)
+## Unduh versi terbaru
 
 | Sistem | File |
 |---|---|
-| Windows 10/11 (installer) | [MCS-2.1.1-Setup.exe](https://github.com/asopians/MCS-Download/releases/download/v2.1.1/MCS-2.1.1-Setup.exe) |
-| macOS 11+ (Apple Silicon M1–M4) | [MCS-2.1.1-mac.zip](https://github.com/asopians/MCS-Download/releases/download/v2.1.1/MCS-2.1.1-mac.zip) |
+| Windows 10/11 (installer) | [MCS-2.1.1-Setup.exe](https://github.com/asopians/MCS-Download/releases/download/v2.1.1/MCS-2.1.1-Setup.exe) (versi 2.1.2 segera menyusul) |
+| macOS 11+ (Apple Silicon M1–M4) | [MCS-2.1.2-mac.zip](https://github.com/asopians/MCS-Download/releases/download/v2.1.2/MCS-2.1.2-mac.zip) |
 
-Semua versi: [halaman Releases](https://github.com/asopians/MCS-Download/releases) · terakhir diperbarui 28 Oktober 2026
+Semua versi: [halaman Releases](https://github.com/asopians/MCS-Download/releases) · terakhir diperbarui 1 November 2026
 
 ## Cara pasang
 **Windows:** jalankan `MCS-2.1.1-Setup.exe`. Bila muncul *"Windows protected your PC"*, klik **More info → Run anyway**, lalu ikuti langkah instalasi.
@@ -21,6 +21,17 @@ Semua versi: [halaman Releases](https://github.com/asopians/MCS-Download/release
 **Update:** aplikasi yang sudah terpasang memberi tahu bila ada versi baru (tombol ⬆️ Update di sidebar). Data akun, API, jadwal, pengaturan live & lisensi tetap aman setelah update.
 
 ## Catatan versi
+
+### 2.1.2 — Menu Metadata baru, Scheduler lebih lengkap & Authenticator berkategori
+
+- Menu baru 🧬 Metadata: ubah data di dalam video (judul, tanggal, kamera, lokasi, dll.) langsung di file videonya tanpa render ulang. Isi sendiri atau klik acak, lalu pilih field yang ingin diubah
+- Scheduler: hanya video privat, tidak publik, terjadwal & gagal yang tampil. Video terjadwal ditandai kuning (⏰ Dijadwalkan)
+- Scheduler: tombol ✏️ Edit & Jadwal menggabungkan judul, deskripsi, thumbnail & status video dalam satu jendela
+- Scheduler: jadwal otomatis terpasang di YouTube Studio dan ikut berubah saat 🔄 Sinkronkan. Ada juga pratinjau thumbnail & kartu "Channel terhubung"
+- Authenticator: akun bisa dikelompokkan per kategori (Channel, AdSense atau buatan sendiri) dan boleh disimpan tanpa kunci rahasia dulu
+- Live Streaming: gagal memasang thumbnail tidak lagi memunculkan popup bertumpuk
+- Pesan error kini menjelaskan penyebab & cara mengatasinya dengan bahasa sederhana
+- Versi aplikasi tertulis di bawah judul menu samping
 
 ### 2.1.1 — Live Streaming lebih stabil, update tanpa hentikan live & Scheduler hemat kuota
 - Penting – update dari versi 2.1.0: hentikan live terlebih dahulu, lalu pasang update. Akun, API, jadwal, pengaturan live & lisensi tetap aman
